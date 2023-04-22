@@ -24,6 +24,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudhanshu-273&show_icons=true&locale=en&layout=compact" alt="sudhanshu-273" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudhanshu-273&show_icons=true&locale=en" alt="sudhanshu-273" /></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Sudhanshu-273&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sudhanshu-273&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudhanshu-273&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
