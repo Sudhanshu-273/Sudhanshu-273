@@ -9,7 +9,8 @@
 <p align="left"> <a href="https://twitter.com/naamnahihai273" target="blank"><img src="https://img.shields.io/twitter/follow/naamnahihai273?logo=twitter&style=for-the-badge" alt="naamnahihai273" /></a> </p>
 <br>
 <br>
-- 📫 How to reach me **sudhanshuchaubey273@gmail.com**
+- 📫 How to reach me <p><a href="mailto:sushdnahuchaubey273@hmail.com">sudhanshuchaubey273@gmail.com</a></p>
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/naamnahihai273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="naamnahihai273" height="30" width="40" /></a>
