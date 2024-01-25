@@ -12,13 +12,10 @@ I'm currently learning NestJS. A framework of Node built over Express. I'm learn
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sudhanshu-273&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sudhanshu-273&icon=6&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=crazypotato&label=They%20were%20here&pretty=true)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
