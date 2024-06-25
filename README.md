@@ -1,4 +1,4 @@
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
 
 # 💫 About Me: 
 I'm currently learning NestJS. A framework of Node built over Express. I'm learning to build robust and secure backend apis and integrating third party services in it.[[Know More..](https://sudhanshu-273.github.io/portfolio-2-/)]
