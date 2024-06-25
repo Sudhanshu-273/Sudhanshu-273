@@ -59,23 +59,13 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://s3.amazonaws.com/rails-camp-tutorials/blog/programming+memes/works-doesnt-work.jpg"  />
+  <img height="350" src="https://s3.amazonaws.com/rails-camp-tutorials/blog/programming+memes/works-doesnt-work.jpg"  />
 </div>
 
 ###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Sudhanshu-273.Sudhanshu-273&left_text=They%20were%20here"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Sudhanshu-273/Sudhanshu-273/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
 ###
